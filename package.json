@@ -1,0 +1,15 @@
+{
+  "name": "simple-express-api",
+  "version": "1.0.0",
+  "description": "A simple Express.js API with three endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Sumit Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
